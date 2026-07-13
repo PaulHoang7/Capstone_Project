@@ -1,29 +1,41 @@
 # Comic Voice-Over System
 
-Vietnamese TTS with tone-preserved zero-shot voice cloning for comic characters.
-
-This repository is organized for the VietNeu-140h dataset and the Voice Clone / TTS research pipeline used in the project.
+A Vietnamese comic voice-over and zero-shot voice cloning research project built around the VietNeu-140h dataset.
 
 ## Overview
 
-The project focuses on building an end-to-end Vietnamese comic voice-over system that can:
+This repository implements a research-oriented pipeline for Vietnamese comic narration and speech synthesis. The goal is to convert comic text and character context into expressive speech while preserving Vietnamese tone accuracy and speaker identity.
 
-- detect comic speech bubbles and character regions,
-- extract source text from panels,
-- assign voice to characters,
-- generate expressive Vietnamese speech with tone preservation,
-- clone a speaker voice from short reference audio in a zero-shot setting.
+The system is designed to support:
+
+- speech bubble and character region detection,
+- text extraction from comic panels,
+- speaker attribution for characters,
+- tone-aware Vietnamese TTS generation,
+- zero-shot voice cloning from short reference audio.
+
+## Project Focus
+
+The core idea of the project is to combine:
+
+- a computer vision pipeline for comic understanding,
+- a speech synthesis pipeline for natural Vietnamese voice generation,
+- a tone-preserved voice cloning module for speaker identity transfer.
+
+This makes the repo suitable for research, experimentation, and future demo deployment.
 
 ## Dataset: VietNeu-140h
 
-The repository is prepared to work with a Vietnamese speech dataset collection named VietNeu-140h.
+VietNeu-140h is the main corpus used for training and experimentation in this project.
 
-Recommended dataset conventions:
+The repository is organized to support a public, lightweight GitHub structure while keeping the large raw audio and model artifacts out of the Git history.
 
-- audio files stored in `data/` or split into `train/`, `val/`, `test/`
-- transcript metadata stored in `metadata/`
-- speaker identity metadata stored separately when available
-- large audio assets and checkpoints should stay out of Git history
+Recommended dataset organization:
+
+- `data/train/` for training audio
+- `data/val/` for validation audio
+- `data/test/` for held-out test audio
+- `metadata/` for transcripts, manifest files, and speaker metadata
 
 ## Repository Structure
 
@@ -41,25 +53,31 @@ Capstone_project/
 └── data/
 ```
 
-## How to Use
+## Quick Start
 
-1. Place the dataset under `data/`.
-2. Prepare transcript metadata under `metadata/`.
-3. Review the config files in `configs/`.
-4. Run the training or inference scripts in `scripts/`.
+1. Clone the repository.
+2. Prepare the VietNeu-140h data locally under the `data/` folder.
+3. Add metadata files under `metadata/`.
+4. Review and adjust configuration files in `configs/`.
+5. Run scripts from `scripts/` for training or inference.
 
-## Git / Large Files
+## Git and Large Files Policy
 
-Large audio files, checkpoints, and generated artifacts are intentionally ignored through the project `.gitignore`.
+This repository intentionally ignores large or generated artifacts such as:
 
-This keeps the repo lightweight while preserving the source code and dataset metadata structure.
+- audio files like `.wav`, `.mp3`, `.flac`
+- model checkpoints like `.pt`, `.pth`, `.safetensors`
+- archives like `.zip`, `.tar`, `.gz`
+- temporary outputs such as `logs/`, `checkpoints/`, `samples*/`
 
-## Notes
+This keeps the public GitHub repository clean and suitable for code, configs, and research documentation.
 
-- This repo is structured to support research and reproducibility.
-- The actual large training corpus should be stored locally or in a dataset hosting service.
-- GitHub is used to track code, configs, docs, and metadata rather than raw audio archives.
+## Research Notes
+
+- The project is structured for reproducibility.
+- The large training corpus should be kept locally or stored separately in a dataset storage service.
+- GitHub is used for the source code, configuration, and metadata, not for large raw audio releases.
 
 ## License
 
-This repository is intended for research and educational use.
+This project is intended for research and educational use.
