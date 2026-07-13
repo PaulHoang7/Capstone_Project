@@ -40,3 +40,6 @@ outputs/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Local Claude / agent metadata
+.claude/
