@@ -1,0 +1,9 @@
+train:
+  - /home/bes/Desktop/Tin/Capstone_project/data/yolo_bubble_v3/valid/images
+val:
+  - /home/bes/Desktop/Tin/Capstone_project/data/yolo_bubble_v3/valid/images
+  - /home/bes/Desktop/Tin/Capstone_project/data/yolo_bubble_v3/test/images
+names:
+  0: bubble
+  1: character
+  2: panel

@@ -1,0 +1,542 @@
+[
+  {
+    "sid": 170,
+    "spk_name": "capybara1812_0007",
+    "gen_idx": 0,
+    "target_text": "Các học sinh tài năng nhất sẽ được học với những giáo viên dạy chơi cờ hàng đầu nước Mỹ trước và sau giờ học chính.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0007_106.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0007_342.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid170_gen0.wav"
+  },
+  {
+    "sid": 170,
+    "spk_name": "capybara1812_0007",
+    "gen_idx": 1,
+    "target_text": "Nhưng bạn không cần phải là thần đồng thì mới có thể đạt được những điều vĩ đại.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0007_172.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0007_342.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid170_gen1.wav"
+  },
+  {
+    "sid": 170,
+    "spk_name": "capybara1812_0007",
+    "gen_idx": 2,
+    "target_text": "Chiêu mộ một loạt thần đồng rồi đào tạo chuyên sâu cho các em ngay từ khi còn nhỏ.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0007_150.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0007_342.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid170_gen2.wav"
+  },
+  {
+    "sid": 70,
+    "spk_name": "capybara1812_0009",
+    "gen_idx": 0,
+    "target_text": "Nhưng cuộc đàm thoại này trở nên hoàn toàn mới, hoàn toàn khác thường đối với người Athen.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0009_102.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0009_466.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid070_gen0.wav"
+  },
+  {
+    "sid": 70,
+    "spk_name": "capybara1812_0009",
+    "gen_idx": 1,
+    "target_text": "Khi hai ông này đã buồn ngủ, ông ngồi dậy và ra đi.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0009_427.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0009_466.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid070_gen1.wav"
+  },
+  {
+    "sid": 70,
+    "spk_name": "capybara1812_0009",
+    "gen_idx": 2,
+    "target_text": "Nó có nghĩa là một trách nhiệm vô điều kiện của nhà tư tưởng.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0009_214.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0009_466.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid070_gen2.wav"
+  },
+  {
+    "sid": 50,
+    "spk_name": "capybara1812_0010",
+    "gen_idx": 0,
+    "target_text": "Mặc dù không có giải pháp hoàn hảo cho điều này, nhưng có rất nhiều cách mà cam kết có thể đạt được và duy trì lâu dài.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0010_355.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0010_515.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid050_gen0.wav"
+  },
+  {
+    "sid": 50,
+    "spk_name": "capybara1812_0010",
+    "gen_idx": 1,
+    "target_text": "Cạnh tranh trong ngành công nghiệp và công nghệ cho thấy những bằng chứng tiếp theo cho nhận định này.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0010_218.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0010_515.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid050_gen1.wav"
+  },
+  {
+    "sid": 50,
+    "spk_name": "capybara1812_0010",
+    "gen_idx": 2,
+    "target_text": "Chúng tôi chỉ phát triển các ý tưởng và nguyên tắc của tư duy chiến lược.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0010_88.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0010_515.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid050_gen2.wav"
+  },
+  {
+    "sid": 130,
+    "spk_name": "capybara1812_0011",
+    "gen_idx": 0,
+    "target_text": "Danh từ Lạt Ma là danh hiệu cho người giảng dạy giáo Pháp của Phật giáo Tây Tạng, tương tự như Guru trong tiếng Phạn.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0011_346.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0011_190.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid130_gen0.wav"
+  },
+  {
+    "sid": 130,
+    "spk_name": "capybara1812_0011",
+    "gen_idx": 1,
+    "target_text": "Tấm thẻ trong túi được trương ra cho tất cả các cao tăng và quan chức cùng xác định tên tuổi của Linh Đồng được ghi trên tấm thẻ.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0011_508.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0011_190.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid130_gen1.wav"
+  },
+  {
+    "sid": 130,
+    "spk_name": "capybara1812_0011",
+    "gen_idx": 2,
+    "target_text": "Sau đó làn sóng này đi về phía đông thông qua con đường tơ lụa vào Trung Hoa.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0011_99.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0011_190.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid130_gen2.wav"
+  },
+  {
+    "sid": 90,
+    "spk_name": "capybara1812_0021",
+    "gen_idx": 0,
+    "target_text": "Nói như thế không có nghĩa là quyền lực đã biến mất hay không có những người đang sở hữu rất nhiều quyền lực.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0021_75.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0021_188.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid090_gen0.wav"
+  },
+  {
+    "sid": 90,
+    "spk_name": "capybara1812_0021",
+    "gen_idx": 1,
+    "target_text": "Trong ngành tài chính, các ngân hàng đang mất quyền lực và ảnh hưởng của mình vào tay những quỹ đầu tư mới và nhanh nhẹn hơn.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0021_233.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0021_188.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid090_gen1.wav"
+  },
+  {
+    "sid": 90,
+    "spk_name": "capybara1812_0021",
+    "gen_idx": 2,
+    "target_text": "không còn là phạm vi riêng của một vài quỹ lớn cùng các tổ chức công và quốc tế.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0021_254.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0021_188.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid090_gen2.wav"
+  },
+  {
+    "sid": 190,
+    "spk_name": "capybara1812_0052",
+    "gen_idx": 0,
+    "target_text": "Từ khắc kỷ, stoic, không viết hoa, ngày nay vẫn được sử dụng với ý nghĩa là bình tĩnh, tự chủ khi đối diện với khó khăn.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0052_50.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0052_318.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid190_gen0.wav"
+  },
+  {
+    "sid": 190,
+    "spk_name": "capybara1812_0052",
+    "gen_idx": 1,
+    "target_text": "Nguồn cội triết học của liệu pháp nhận thức có thể truy ngược về thời các triết gia Khắc kỷ.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0052_79.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0052_318.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid190_gen1.wav"
+  },
+  {
+    "sid": 190,
+    "spk_name": "capybara1812_0052",
+    "gen_idx": 2,
+    "target_text": "Người ta cho rằng, chỉ riêng chủ nghĩa Khắc kỷ thời sơ khai đã được viết thành hàng ngàn cuốn sách, cho dù một số có thể gần giống với những bài tiểu luận dài.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0052_96.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0052_318.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid190_gen2.wav"
+  },
+  {
+    "sid": 20,
+    "spk_name": "capybara1812_0073",
+    "gen_idx": 0,
+    "target_text": "Chúng tôi không nói về việc cung cấp những khóa học quá nâng cao.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0073_300.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0073_184.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid020_gen0.wav"
+  },
+  {
+    "sid": 20,
+    "spk_name": "capybara1812_0073",
+    "gen_idx": 1,
+    "target_text": "Chúng ta cũng học được cách thoát ra khỏi lợi ích nhóm giữa các phòng ban và cấp bậc để nhìn thấy bức tranh rộng lớn hơn.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0073_403.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0073_184.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid020_gen1.wav"
+  },
+  {
+    "sid": 20,
+    "spk_name": "capybara1812_0073",
+    "gen_idx": 2,
+    "target_text": "Tính nhân văn trong quy trình này theo cách gọi của chúng ta giúp truyền cảm hứng và tạo dựng sự tự tin của mọi người để họ có thể làm chủ và thúc đẩy quá trình thực thi hiệu quả.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0073_308.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_0073_184.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid020_gen2.wav"
+  },
+  {
+    "sid": 30,
+    "spk_name": "capybara1812_1023",
+    "gen_idx": 0,
+    "target_text": "Nếu ông không thương, mà bắt giải, thì vợ con tôi chết đói.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1023_219.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1023_797.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid030_gen0.wav"
+  },
+  {
+    "sid": 30,
+    "spk_name": "capybara1812_1023",
+    "gen_idx": 1,
+    "target_text": "Mà khi hắn kêu làng thì không ai cần động đậy.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1023_539.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1023_797.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid030_gen1.wav"
+  },
+  {
+    "sid": 30,
+    "spk_name": "capybara1812_1023",
+    "gen_idx": 2,
+    "target_text": "Và khi bác phó cối này chết, thì hắn bơ vơ.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1023_16.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1023_797.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid030_gen2.wav"
+  },
+  {
+    "sid": 140,
+    "spk_name": "capybara1812_1029",
+    "gen_idx": 0,
+    "target_text": "Thế rồi đột nhiên bạn tiến tới gần bờ vực.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1029_211.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1029_40.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid140_gen0.wav"
+  },
+  {
+    "sid": 140,
+    "spk_name": "capybara1812_1029",
+    "gen_idx": 1,
+    "target_text": "Nếu bạn có thể bắt đầu chạy một chút, điều đó sẽ giúp ích.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1029_91.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1029_40.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid140_gen1.wav"
+  },
+  {
+    "sid": 140,
+    "spk_name": "capybara1812_1029",
+    "gen_idx": 2,
+    "target_text": "Bụng liên tục phập phồng, còn ngực vẫn hoàn toàn không bị ảnh hưởng bởi việc lưu chuyển không khí.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1029_157.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1029_40.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid140_gen2.wav"
+  },
+  {
+    "sid": 160,
+    "spk_name": "capybara1812_1037",
+    "gen_idx": 0,
+    "target_text": "Lúc bước vào phòng, vừa thấy mặt nàng, Oki đã cảm thấy tình ấy vẫn còn.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1037_374.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1037_303.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid160_gen0.wav"
+  },
+  {
+    "sid": 160,
+    "spk_name": "capybara1812_1037",
+    "gen_idx": 1,
+    "target_text": "Nếu không có dịp như thế này, anh chắc đã không dám hỏi em.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1037_284.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1037_303.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid160_gen1.wav"
+  },
+  {
+    "sid": 160,
+    "spk_name": "capybara1812_1037",
+    "gen_idx": 2,
+    "target_text": "Hai chiếc vali vuông dẹt, bằng da màu trắng, điểm những vệt nâu nhạt là món đồ thuộc hạng sang, ít thấy bán tại Nhật.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1037_37.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1037_303.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid160_gen2.wav"
+  },
+  {
+    "sid": 120,
+    "spk_name": "capybara1812_1055",
+    "gen_idx": 0,
+    "target_text": "Chương 6 Ôi, hoàng tử bé ơi, tôi đã dần dà hiểu được cuộc đời bé bỏng buồn sầu của cậu.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1055_292.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1055_1150.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid120_gen0.wav"
+  },
+  {
+    "sid": 120,
+    "spk_name": "capybara1812_1055",
+    "gen_idx": 1,
+    "target_text": "Mỗi tuần nuốt một viên và bạn sẽ không cần phải uống nước nữa.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1055_1252.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1055_1150.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid120_gen1.wav"
+  },
+  {
+    "sid": 120,
+    "spk_name": "capybara1812_1055",
+    "gen_idx": 2,
+    "target_text": "Loài người ấy à, em nghĩ là có đấy.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1055_1000.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1055_1150.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid120_gen2.wav"
+  },
+  {
+    "sid": 60,
+    "spk_name": "capybara1812_1079",
+    "gen_idx": 0,
+    "target_text": "Các chuẩn mực trong giao tiếp truyền thống ở Bắc vẫn tốt hơn ở Nam, đặc biệt là cách con cái cư xử với bố mẹ ông bà và nhân viên, giao tiếp với sếp.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1079_163.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1079_360.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid060_gen0.wav"
+  },
+  {
+    "sid": 60,
+    "spk_name": "capybara1812_1079",
+    "gen_idx": 1,
+    "target_text": "Khi mà thể lực bạn kiệt quệ thì sẽ làm tinh thần bạn xuống cấp.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1079_5.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1079_360.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid060_gen1.wav"
+  },
+  {
+    "sid": 60,
+    "spk_name": "capybara1812_1079",
+    "gen_idx": 2,
+    "target_text": "Thế nhưng các đoàn khác cũng vậy, ai cũng tranh thủ, ai cũng hối hả.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1079_454.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/capybara1812_1079_360.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid060_gen2.wav"
+  },
+  {
+    "sid": 150,
+    "spk_name": "jellyfish1010_0002",
+    "gen_idx": 0,
+    "target_text": "Triều đại nhà Tần nổi bật với những chính sách theo khuynh hướng Pháp gia về các công trình công cộng hoành tráng và luật pháp hà khắc.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0002_427.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0002_23.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid150_gen0.wav"
+  },
+  {
+    "sid": 150,
+    "spk_name": "jellyfish1010_0002",
+    "gen_idx": 1,
+    "target_text": "Những con tàu vận chuyển muối thường bị chuột xâm chiếm ồ ạt.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0002_47.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0002_23.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid150_gen1.wav"
+  },
+  {
+    "sid": 150,
+    "spk_name": "jellyfish1010_0002",
+    "gen_idx": 2,
+    "target_text": "Đôi khi binh lính và dân lao động được trả lương bằng muối, thậm chí muối còn được thường dùng như một đơn vị tiền tệ.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0002_191.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0002_23.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid150_gen2.wav"
+  },
+  {
+    "sid": 80,
+    "spk_name": "jellyfish1010_0039",
+    "gen_idx": 0,
+    "target_text": "Và tôi chưa từng bước chân vào giảng đường đại học.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0039_166.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0039_183.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid080_gen0.wav"
+  },
+  {
+    "sid": 80,
+    "spk_name": "jellyfish1010_0039",
+    "gen_idx": 1,
+    "target_text": "Và thú thực, tôi thấy thật hả hê khi nhìn thấy vẻ mặt của cô Dorothy vào lúc ấy.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0039_473.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0039_183.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid080_gen1.wav"
+  },
+  {
+    "sid": 80,
+    "spk_name": "jellyfish1010_0039",
+    "gen_idx": 2,
+    "target_text": "Nếu bạn đang quản lý một công ty đầu tư thì hãy tự hỏi Warren Buffett sẽ làm gì?",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0039_681.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0039_183.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid080_gen2.wav"
+  },
+  {
+    "sid": 40,
+    "spk_name": "jellyfish1010_0040",
+    "gen_idx": 0,
+    "target_text": "Chiến thắng này đòi hỏi một cuộc tấn công lớn dưới nhiều hình thức.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0040_144.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0040_181.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid040_gen0.wav"
+  },
+  {
+    "sid": 40,
+    "spk_name": "jellyfish1010_0040",
+    "gen_idx": 1,
+    "target_text": "Trên thực tế, các nghi ngờ đã bắt đầu xuất hiện.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0040_134.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0040_181.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid040_gen1.wav"
+  },
+  {
+    "sid": 40,
+    "spk_name": "jellyfish1010_0040",
+    "gen_idx": 2,
+    "target_text": "Những người ở lại có những tiêu chuẩn cần thiết để chính thức gia nhập đội và hoàn thành nhiệm vụ, dù cho hoàn cảnh tồi tệ đến mức nào.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0040_189.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0040_181.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid040_gen2.wav"
+  },
+  {
+    "sid": 180,
+    "spk_name": "jellyfish1010_0043",
+    "gen_idx": 0,
+    "target_text": "Phải mất khá lâu chúng tôi mới thuyết phục nổi bản thân rằng đây thậm chí là việc đáng thử.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0043_15.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0043_64.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid180_gen0.wav"
+  },
+  {
+    "sid": 180,
+    "spk_name": "jellyfish1010_0043",
+    "gen_idx": 1,
+    "target_text": "Trong ba câu hỏi mà quan điểm của chuyên gia khác biệt đáng kể quan điểm của công chúng, các nhà nghiên cứu biến tấu câu hỏi theo nhiều cách thức đa dạng.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0043_128.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0043_64.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid180_gen1.wav"
+  },
+  {
+    "sid": 180,
+    "spk_name": "jellyfish1010_0043",
+    "gen_idx": 2,
+    "target_text": "Rất nhiều vấn đề đang hoành hành trên thế giới hiện nay, đặc biệt dễ thấy ở những nước giàu có ở Bắc Bán Cầu, trong khi chúng tôi đã dành cả đời mình nghiên cứu người nghèo ở các nước nghèo.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0043_13.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0043_64.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid180_gen2.wav"
+  },
+  {
+    "sid": 10,
+    "spk_name": "jellyfish1010_0044",
+    "gen_idx": 0,
+    "target_text": "Nó học rất tệ, thậm chí còn không biết làm theo một số chỉ dẫn trong các bài kiểm tra.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0044_48.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0044_633.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid010_gen0.wav"
+  },
+  {
+    "sid": 10,
+    "spk_name": "jellyfish1010_0044",
+    "gen_idx": 1,
+    "target_text": "Đạo đức tính cách mách bảo tôi rằng vẫn còn có một cái gì đó ngoài kia,",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0044_586.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0044_633.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid010_gen1.wav"
+  },
+  {
+    "sid": 10,
+    "spk_name": "jellyfish1010_0044",
+    "gen_idx": 2,
+    "target_text": "Thoreau từng nói, trong một ngàn nhát búa bổ vào cành lá của tội ác, chỉ có một nhát bổ vào gốc rễ.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0044_350.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0044_633.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid010_gen2.wav"
+  },
+  {
+    "sid": 0,
+    "spk_name": "jellyfish1010_0052",
+    "gen_idx": 0,
+    "target_text": "Wieseltier đã dẫn ra Rwanda làm ví dụ, nơi một triệu người Tutsi thiệt mạng trong cuộc diệt chủng vào năm 1994, một vũng lầy về quân sự của phương Tây.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0052_385.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0052_352.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid000_gen0.wav"
+  },
+  {
+    "sid": 0,
+    "spk_name": "jellyfish1010_0052",
+    "gen_idx": 1,
+    "target_text": "Có thể họ vẫn còn tìm lại nó và thoát ra khỏi chủ nghĩa bán hòa bình hiện nay.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0052_306.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0052_352.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid000_gen1.wav"
+  },
+  {
+    "sid": 0,
+    "spk_name": "jellyfish1010_0052",
+    "gen_idx": 2,
+    "target_text": "Đối với khá nhiều người theo chủ nghĩa lý tưởng, không thực tế, Iraq là một sự tiếp nối đam mê thời những năm 1990.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0052_443.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_0052_352.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid000_gen2.wav"
+  },
+  {
+    "sid": 100,
+    "spk_name": "jellyfish1010_1042",
+    "gen_idx": 0,
+    "target_text": "Coke là một ví dụ điển hình, một cái tên ngắn gọn mà cho dù có cả tỷ đô la, bạn cũng không thể mua lại của Coca-Cola.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1042_321.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1042_39.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid100_gen0.wav"
+  },
+  {
+    "sid": 100,
+    "spk_name": "jellyfish1010_1042",
+    "gen_idx": 1,
+    "target_text": "Bill Gates đã nhìn thấy điểm yếu này và tưởng tượng đến một giao diện thân thiện với người sử dụng hơn.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1042_302.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1042_39.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid100_gen1.wav"
+  },
+  {
+    "sid": 100,
+    "spk_name": "jellyfish1010_1042",
+    "gen_idx": 2,
+    "target_text": "Còn được gọi là thập nhị nhân duyên, một trong những giáo lý quan trọng nhất của Đạo Phật.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1042_165.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1042_39.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid100_gen2.wav"
+  },
+  {
+    "sid": 110,
+    "spk_name": "jellyfish1010_1076",
+    "gen_idx": 0,
+    "target_text": "Trình độ của cô rất tốt, Nora.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1076_192.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1076_266.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid110_gen0.wav"
+  },
+  {
+    "sid": 110,
+    "spk_name": "jellyfish1010_1076",
+    "gen_idx": 1,
+    "target_text": "Cô nói với Neil, trong văn phòng bừa bộn không cửa sổ, bé như mắt mũi.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1076_140.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1076_266.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid110_gen1.wav"
+  },
+  {
+    "sid": 110,
+    "spk_name": "jellyfish1010_1076",
+    "gen_idx": 2,
+    "target_text": "Cô uống nốt chỗ rượu, uống cho bằng hết.",
+    "target_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1076_496.wav",
+    "ref_wav": "/mnt/nfs-data/tin_dataset/VieNeu-TTS-140h/wavs/jellyfish1010_1076_266.wav",
+    "out_path": "Capstone_project/voice_cloning/xtts_v2/eval_vits2_d/generated/sid110_gen2.wav"
+  }
+]

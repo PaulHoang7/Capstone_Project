@@ -1,0 +1,705 @@
+{
+  "xtts_ctc_v3": {
+    "label": "xtts_ctc_v3",
+    "n_total_samples": 60,
+    "n_alignable_samples": 21,
+    "alignable_rate": 0.35,
+    "n_syllables_compared": 387,
+    "overall_tone_accuracy": 0.9638,
+    "per_tone_accuracy": {
+      "ngang": 0.9189,
+      "sắc": 1.0,
+      "huyền": 0.9474,
+      "hỏi": 1.0,
+      "ngã": 1.0,
+      "nặng": 0.9403
+    },
+    "hard_pair_confusion": {
+      "hỏi->ngã": 0.0,
+      "ngã->hỏi": 0.0,
+      "sắc->nặng": 0.0,
+      "nặng->sắc": 0.0
+    },
+    "confusion_6x6": [
+      [
+        68,
+        1,
+        3,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        106,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        72,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        39,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        25,
+        0
+      ],
+      [
+        1,
+        0,
+        2,
+        0,
+        1,
+        63
+      ]
+    ],
+    "confusion_tone_names": [
+      "ngang",
+      "sắc",
+      "huyền",
+      "hỏi",
+      "ngã",
+      "nặng"
+    ],
+    "samples": [
+      {
+        "sid": 170,
+        "speaker": "capybara1812_0007",
+        "gen_idx": 0,
+        "target_text": "Các học sinh tài năng nhất sẽ được học với những giáo viên dạy chơi cờ hàng đầu nước Mỹ trước và sau giờ học chính.",
+        "pred_text": "nhưng bạn không cần phải là thần động thì mới có thể đạt được những điều vĩ đại trong trạch.",
+        "target_tones_len": 26,
+        "pred_tones_len": 20,
+        "aligned": false
+      },
+      {
+        "sid": 170,
+        "speaker": "capybara1812_0007",
+        "gen_idx": 1,
+        "target_text": "Nhưng bạn không cần phải là thần đồng thì mới có thể đạt được những điều vĩ đại.",
+        "pred_text": "chiêu mộ một loạt thần đồng rồi đào tạo chuyên sâu cho các em ngay từ khi còn nhỏ.",
+        "target_tones_len": 18,
+        "pred_tones_len": 19,
+        "aligned": false
+      },
+      {
+        "sid": 170,
+        "speaker": "capybara1812_0007",
+        "gen_idx": 2,
+        "target_text": "Chiêu mộ một loạt thần đồng rồi đào tạo chuyên sâu cho các em ngay từ khi còn nhỏ.",
+        "pred_text": "cha mẹ và giáo viên của chúng ta không phải lúc nào cũng được trang bị kiến thức để cung cấp một giảng giáo phù hợp.",
+        "target_tones_len": 19,
+        "pred_tones_len": 26,
+        "aligned": false
+      },
+      {
+        "sid": 70,
+        "speaker": "capybara1812_0009",
+        "gen_idx": 0,
+        "target_text": "Nhưng cuộc đàm thoại này trở nên hoàn toàn mới, hoàn toàn khác thường đối với người Athen.",
+        "pred_text": "khi hai ông này đã buồn ngủ ôm người dậy và ra đi.",
+        "target_tones_len": 18,
+        "pred_tones_len": 13,
+        "aligned": false
+      },
+      {
+        "sid": 70,
+        "speaker": "capybara1812_0009",
+        "gen_idx": 1,
+        "target_text": "Khi hai ông này đã buồn ngủ, ông ngồi dậy và ra đi.",
+        "pred_text": "nó có nghĩa là một trách nhiệm vô điều kiện của nhà tư tưởng ai nhầy.",
+        "target_tones_len": 13,
+        "pred_tones_len": 16,
+        "aligned": false
+      },
+      {
+        "sid": 70,
+        "speaker": "capybara1812_0009",
+        "gen_idx": 2,
+        "target_text": "Nó có nghĩa là một trách nhiệm vô điều kiện của nhà tư tưởng.",
+        "pred_text": "bất chấp sự thành công và ảnh hưởng của nó đối với nhà nước sự độc lập của kẻ tự chủ lấy mình sự tự do sát nghĩa nhất.",
+        "target_tones_len": 14,
+        "pred_tones_len": 29,
+        "aligned": false
+      },
+      {
+        "sid": 50,
+        "speaker": "capybara1812_0010",
+        "gen_idx": 0,
+        "target_text": "Mặc dù không có giải pháp hoàn hảo cho điều này, nhưng có rất nhiều cách mà cam kết có thể đạt được và duy trì lâu dài.",
+        "pred_text": "cạnh tranh trong ngành công nghiệp và công nghệ cho thấy những bằng chứng tiếp theo cho nhận định này với công tình này.",
+        "target_tones_len": 28,
+        "pred_tones_len": 24,
+        "aligned": false
+      },
+      {
+        "sid": 50,
+        "speaker": "capybara1812_0010",
+        "gen_idx": 1,
+        "target_text": "Cạnh tranh trong ngành công nghiệp và công nghệ cho thấy những bằng chứng tiếp theo cho nhận định này.",
+        "pred_text": "chúng tôi chỉ phát triển các ý tưởng và nguyên tắc của tư duy chiến lược nhẽ.",
+        "target_tones_len": 20,
+        "pred_tones_len": 17,
+        "aligned": false
+      },
+      {
+        "sid": 50,
+        "speaker": "capybara1812_0010",
+        "gen_idx": 2,
+        "target_text": "Chúng tôi chỉ phát triển các ý tưởng và nguyên tắc của tư duy chiến lược.",
+        "pred_text": "cũng giống như thi đua trong thể thao khi thắng lợi của đội này sẽ là thất bại của đội khác.",
+        "target_tones_len": 16,
+        "pred_tones_len": 21,
+        "aligned": false
+      },
+      {
+        "sid": 130,
+        "speaker": "capybara1812_0011",
+        "gen_idx": 0,
+        "target_text": "Danh từ Lạt Ma là danh hiệu cho người giảng dạy giáo Pháp của Phật giáo Tây Tạng, tương tự như Guru trong tiếng Phạn.",
+        "pred_text": "tấm thẻ trong túi được trưng ra cho tất cả các cao tăng và quan chức cùng xác định tên tuổi của linh đụng được ghi trên tấm thẻ.",
+        "target_tones_len": 25,
+        "pred_tones_len": 29,
+        "aligned": false
+      },
+      {
+        "sid": 130,
+        "speaker": "capybara1812_0011",
+        "gen_idx": 1,
+        "target_text": "Tấm thẻ trong túi được trương ra cho tất cả các cao tăng và quan chức cùng xác định tên tuổi của Linh Đồng được ghi trên tấm thẻ.",
+        "pred_text": "sau đó làn sóng đẩy đi về phía đông thông qua con đường tới lũa chợ trung hoa do ống dàng dâm chai.",
+        "target_tones_len": 29,
+        "pred_tones_len": 23,
+        "aligned": false
+      },
+      {
+        "sid": 130,
+        "speaker": "capybara1812_0011",
+        "gen_idx": 2,
+        "target_text": "Sau đó làn sóng này đi về phía đông thông qua con đường tơ lụa vào Trung Hoa.",
+        "pred_text": "có lần cô bé thấy nhiều người trong truyện kinh ngạc về trí thông minh của mình nên đã nói một câu như sau.",
+        "target_tones_len": 18,
+        "pred_tones_len": 24,
+        "aligned": false
+      },
+      {
+        "sid": 90,
+        "speaker": "capybara1812_0021",
+        "gen_idx": 0,
+        "target_text": "Nói như thế không có nghĩa là quyền lực đã biến mất hay không có những người đang sở hữu rất nhiều quyền lực.",
+        "pred_text": "trong ngành tài chính các ngân hàng đang mất quyền lực và ảnh hưởng của mình vào tay những quỹ đầu tư mới và nhanh nhẹn hơn.",
+        "target_tones_len": 24,
+        "pred_tones_len": 27,
+        "aligned": false
+      },
+      {
+        "sid": 90,
+        "speaker": "capybara1812_0021",
+        "gen_idx": 1,
+        "target_text": "Trong ngành tài chính, các ngân hàng đang mất quyền lực và ảnh hưởng của mình vào tay những quỹ đầu tư mới và nhanh nhẹn hơn.",
+        "pred_text": "không còn là phạm vi riêng của một vài quỹ lớn cùng các tổ chức công và quốc tế.",
+        "target_tones_len": 27,
+        "pred_tones_len": 19,
+        "aligned": false
+      },
+      {
+        "sid": 90,
+        "speaker": "capybara1812_0021",
+        "gen_idx": 2,
+        "target_text": "không còn là phạm vi riêng của một vài quỹ lớn cùng các tổ chức công và quốc tế.",
+        "pred_text": "bản thân quyền lực đang bị tấn công một cách chưa từng có tiền lệ trong sống.",
+        "target_tones_len": 19,
+        "pred_tones_len": 17,
+        "aligned": false
+      },
+      {
+        "sid": 190,
+        "speaker": "capybara1812_0052",
+        "gen_idx": 0,
+        "target_text": "Từ khắc kỷ, stoic, không viết hoa, ngày nay vẫn được sử dụng với ý nghĩa là bình tĩnh, tự chủ khi đối diện với khó khăn.",
+        "pred_text": "nguồn cội triết học liệu pháp nhận thức có thể trí ngược dạy thời cắt triết gia khắc kỹ chấm trần.",
+        "target_tones_len": 27,
+        "pred_tones_len": 21,
+        "aligned": false
+      },
+      {
+        "sid": 190,
+        "speaker": "capybara1812_0052",
+        "gen_idx": 1,
+        "target_text": "Nguồn cội triết học của liệu pháp nhận thức có thể truy ngược về thời các triết gia Khắc kỷ.",
+        "pred_text": "người ta cho rằng chỉ riêng chủn nghĩa khắc kỹ thợ sơ khai đã được viết thành hàng ngàn cuốn sách cho dù một số có thể gần giống với những bài tiểu luận dạy.",
+        "target_tones_len": 20,
+        "pred_tones_len": 35,
+        "aligned": false
+      },
+      {
+        "sid": 190,
+        "speaker": "capybara1812_0052",
+        "gen_idx": 2,
+        "target_text": "Người ta cho rằng, chỉ riêng chủ nghĩa Khắc kỷ thời sơ khai đã được viết thành hàng ngàn cuốn sách, cho dù một số có thể gần giống với những bài tiểu luận dài.",
+        "pred_text": "như chúng ta sẽ thấy đây là mối quan tâm chính yếu của các triết gia khắc kỷ và theo truyền thống họ được nhìn nhận lại trường phái triết học tập trung rõ ràng nhất vào khía cạnh trị liệu.",
+        "target_tones_len": 35,
+        "pred_tones_len": 41,
+        "aligned": false
+      },
+      {
+        "sid": 20,
+        "speaker": "capybara1812_0073",
+        "gen_idx": 0,
+        "target_text": "Chúng tôi không nói về việc cung cấp những khóa học quá nâng cao.",
+        "pred_text": "chúng ta cũng học được cách thoát ra khỏi lợi ích nhóm giữa các phòng bán và các bậc để nhìn thấy bức tranh rộng lớn hơn.",
+        "target_tones_len": 14,
+        "pred_tones_len": 27,
+        "aligned": false
+      },
+      {
+        "sid": 20,
+        "speaker": "capybara1812_0073",
+        "gen_idx": 1,
+        "target_text": "Chúng ta cũng học được cách thoát ra khỏi lợi ích nhóm giữa các phòng ban và cấp bậc để nhìn thấy bức tranh rộng lớn hơn.",
+        "pred_text": "những điển văn trong quy trình này theo cách gọi của chúng ta giúp truyền cảm hứng và tạo dựng sự tự tin của mọi người để họ có thể làm chủ và thúc đẩy quá trình thực thi hiệu quả.",
+        "target_tones_len": 27,
+        "pred_tones_len": 41,
+        "aligned": false
+      },
+      {
+        "sid": 20,
+        "speaker": "capybara1812_0073",
+        "gen_idx": 2,
+        "target_text": "Tính nhân văn trong quy trình này theo cách gọi của chúng ta giúp truyền cảm hứng và tạo dựng sự tự tin của mọi người để họ có thể làm chủ và thúc đẩy quá trình thực thi hiệu quả.",
+        "pred_text": "qua đó ranh giới chính là cạnh rìa mà tại đó chiến lược nằm trong không gian thị trường có sẵn hay còn gọi lại đại dương đỏ.",
+        "target_tones_len": 41,
+        "pred_tones_len": 28,
+        "aligned": false
+      },
+      {
+        "sid": 30,
+        "speaker": "capybara1812_1023",
+        "gen_idx": 0,
+        "target_text": "Nếu ông không thương, mà bắt giải, thì vợ con tôi chết đói.",
+        "pred_text": "và khi hắn kêu làng thì không ai cận động đậy miệng mà cương tô hờ.",
+        "target_tones_len": 13,
+        "pred_tones_len": 16,
+        "aligned": false
+      },
+      {
+        "sid": 30,
+        "speaker": "capybara1812_1023",
+        "gen_idx": 1,
+        "target_text": "Mà khi hắn kêu làng thì không ai cần động đậy.",
+        "pred_text": "và khi bác võ cối nảy chết thì hắn bơi vỡ.",
+        "target_tones_len": 11,
+        "pred_tones_len": 11,
+        "aligned": true,
+        "syllable_accuracy": 0.273
+      },
+      {
+        "sid": 30,
+        "speaker": "capybara1812_1023",
+        "gen_idx": 2,
+        "target_text": "Và khi bác phó cối này chết, thì hắn bơ vơ.",
+        "pred_text": "chúng đùa nhạc như miếu ốc chỉ được cắt thôi từ mái áo và.",
+        "target_tones_len": 11,
+        "pred_tones_len": 14,
+        "aligned": false
+      },
+      {
+        "sid": 140,
+        "speaker": "capybara1812_1029",
+        "gen_idx": 0,
+        "target_text": "Thế rồi đột nhiên bạn tiến tới gần bờ vực.",
+        "pred_text": "thế rồi đột nhiên bạn tiến tới gần bờ vực.",
+        "target_tones_len": 10,
+        "pred_tones_len": 10,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 140,
+        "speaker": "capybara1812_1029",
+        "gen_idx": 1,
+        "target_text": "Nếu bạn có thể bắt đầu chạy một chút, điều đó sẽ giúp ích.",
+        "pred_text": "nếu bạn có thể bắt đầu chạy một chút điều đó sẽ giúp ích.",
+        "target_tones_len": 14,
+        "pred_tones_len": 14,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 140,
+        "speaker": "capybara1812_1029",
+        "gen_idx": 2,
+        "target_text": "Bụng liên tục phập phồng, còn ngực vẫn hoàn toàn không bị ảnh hưởng bởi việc lưu chuyển không khí.",
+        "pred_text": "vùng liên tục vạc vòng còn ngực vẫn hoàn toàn không bị ảnh hưởng bởi việc lưu chuyển không khí.",
+        "target_tones_len": 20,
+        "pred_tones_len": 20,
+        "aligned": true,
+        "syllable_accuracy": 0.95
+      },
+      {
+        "sid": 160,
+        "speaker": "capybara1812_1037",
+        "gen_idx": 0,
+        "target_text": "Lúc bước vào phòng, vừa thấy mặt nàng, Oki đã cảm thấy tình ấy vẫn còn.",
+        "pred_text": "lúc bước vào phòng vừa thấy mặt nàng ô kì đã cảm thấy tình ấy vẫn còn.",
+        "target_tones_len": 16,
+        "pred_tones_len": 17,
+        "aligned": false
+      },
+      {
+        "sid": 160,
+        "speaker": "capybara1812_1037",
+        "gen_idx": 1,
+        "target_text": "Nếu không có dịp như thế này, anh chắc đã không dám hỏi em.",
+        "pred_text": "nếu không có dịp như thế này anh chắc đã không dám hỏi em.",
+        "target_tones_len": 14,
+        "pred_tones_len": 14,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 160,
+        "speaker": "capybara1812_1037",
+        "gen_idx": 2,
+        "target_text": "Hai chiếc vali vuông dẹt, bằng da màu trắng, điểm những vệt nâu nhạt là món đồ thuộc hạng sang, ít thấy bán tại Nhật.",
+        "pred_text": "hai chiếc va li vuông dệt bằng da màu trắng điểm những vệt nâu nhạt là món đồ thuộc hạng sang ít thấy bán tại nhật.",
+        "target_tones_len": 25,
+        "pred_tones_len": 26,
+        "aligned": false
+      },
+      {
+        "sid": 120,
+        "speaker": "capybara1812_1055",
+        "gen_idx": 0,
+        "target_text": "Chương 6 Ôi, hoàng tử bé ơi, tôi đã dần dà hiểu được cuộc đời bé bỏng buồn sầu của cậu.",
+        "pred_text": "thiêu sáu ơi hàn tử bé ơi tôi đã dần dạ hiểu được cuộc đời bé bỏng buồn sầu của cậu.",
+        "target_tones_len": 20,
+        "pred_tones_len": 21,
+        "aligned": false
+      },
+      {
+        "sid": 120,
+        "speaker": "capybara1812_1055",
+        "gen_idx": 1,
+        "target_text": "Mỗi tuần nuốt một viên và bạn sẽ không cần phải uống nước nữa.",
+        "pred_text": "mỗi tôn nước một viên và bạn sẽ không cần phải uống nước nữa.",
+        "target_tones_len": 14,
+        "pred_tones_len": 14,
+        "aligned": true,
+        "syllable_accuracy": 0.929
+      },
+      {
+        "sid": 120,
+        "speaker": "capybara1812_1055",
+        "gen_idx": 2,
+        "target_text": "Loài người ấy à, em nghĩ là có đấy.",
+        "pred_text": "loại người ấy à em nghĩ là có the ai không.",
+        "target_tones_len": 9,
+        "pred_tones_len": 11,
+        "aligned": false
+      },
+      {
+        "sid": 60,
+        "speaker": "capybara1812_1079",
+        "gen_idx": 0,
+        "target_text": "Các chuẩn mực trong giao tiếp truyền thống ở Bắc vẫn tốt hơn ở Nam, đặc biệt là cách con cái cư xử với bố mẹ ông bà và nhân viên, giao tiếp với sếp.",
+        "pred_text": "các chuẩn mực trong giao tiếp truyền thống ở bắc vẫn tốt hơn ở nam đặc biệt là cách con cái cư xử với bố mẹ ông bà và nhân viên giao tiếp với sếp.",
+        "target_tones_len": 35,
+        "pred_tones_len": 35,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 60,
+        "speaker": "capybara1812_1079",
+        "gen_idx": 1,
+        "target_text": "Khi mà thể lực bạn kiệt quệ thì sẽ làm tinh thần bạn xuống cấp.",
+        "pred_text": "khi mà thể lực bạn kiệt quệ thì sẽ làm tinh thần bạn xuống cấp.",
+        "target_tones_len": 15,
+        "pred_tones_len": 15,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 60,
+        "speaker": "capybara1812_1079",
+        "gen_idx": 2,
+        "target_text": "Thế nhưng các đoàn khác cũng vậy, ai cũng tranh thủ, ai cũng hối hả.",
+        "pred_text": "thế nhưng các đoàn khác cũng vậy ai cũng tranh thủ ai cũng hối hả.",
+        "target_tones_len": 15,
+        "pred_tones_len": 15,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 150,
+        "speaker": "jellyfish1010_0002",
+        "gen_idx": 0,
+        "target_text": "Triều đại nhà Tần nổi bật với những chính sách theo khuynh hướng Pháp gia về các công trình công cộng hoành tráng và luật pháp hà khắc.",
+        "pred_text": "triều đại nhà tường nổi bật với những chính sách theo khuynh hướng pháp gia về các công trình công cộng hoành tráng và luật pháp hà khắc cẩm trọng.",
+        "target_tones_len": 28,
+        "pred_tones_len": 30,
+        "aligned": false
+      },
+      {
+        "sid": 150,
+        "speaker": "jellyfish1010_0002",
+        "gen_idx": 1,
+        "target_text": "Những con tàu vận chuyển muối thường bị chuột xâm chiếm ồ ạt.",
+        "pred_text": "những con tàu vận chuyển muối thường bị chuột xâm chiếm ồ ạt chém sít.",
+        "target_tones_len": 13,
+        "pred_tones_len": 15,
+        "aligned": false
+      },
+      {
+        "sid": 150,
+        "speaker": "jellyfish1010_0002",
+        "gen_idx": 2,
+        "target_text": "Đôi khi binh lính và dân lao động được trả lương bằng muối, thậm chí muối còn được thường dùng như một đơn vị tiền tệ.",
+        "pred_text": "sau khi bình lính và dân lao động được trả lương bằng muối thậm chí muối cũng được thường dùng như một đơn vị tiền tệ sức trả.",
+        "target_tones_len": 26,
+        "pred_tones_len": 28,
+        "aligned": false
+      },
+      {
+        "sid": 80,
+        "speaker": "jellyfish1010_0039",
+        "gen_idx": 0,
+        "target_text": "Và tôi chưa từng bước chân vào giảng đường đại học.",
+        "pred_text": "và tôi chưa từng bước chân vào giảng đường đại học mỗi cô gia đình mỗi cái.",
+        "target_tones_len": 11,
+        "pred_tones_len": 17,
+        "aligned": false
+      },
+      {
+        "sid": 80,
+        "speaker": "jellyfish1010_0039",
+        "gen_idx": 1,
+        "target_text": "Và thú thực, tôi thấy thật hả hê khi nhìn thấy vẻ mặt của cô Dorothy vào lúc ấy.",
+        "pred_text": "và thú thực tôi thấy thật hả hê khi nhìn thấy vẻ mặt của cô donald trump vào lúc ấy.",
+        "target_tones_len": 19,
+        "pred_tones_len": 20,
+        "aligned": false
+      },
+      {
+        "sid": 80,
+        "speaker": "jellyfish1010_0039",
+        "gen_idx": 2,
+        "target_text": "Nếu bạn đang quản lý một công ty đầu tư thì hãy tự hỏi Warren Buffett sẽ làm gì?",
+        "pred_text": "nếu bạn đang quản lý một công ty đầu tư thì hãy tự hỏi worrying bổ phẹt sẽ làm gì.",
+        "target_tones_len": 19,
+        "pred_tones_len": 20,
+        "aligned": false
+      },
+      {
+        "sid": 40,
+        "speaker": "jellyfish1010_0040",
+        "gen_idx": 0,
+        "target_text": "Chiến thắng này đòi hỏi một cuộc tấn công lớn dưới nhiều hình thức.",
+        "pred_text": "chiến thắng này đòi hỏi một cuộc tấn công lớn dưới nhiều hình thức.",
+        "target_tones_len": 14,
+        "pred_tones_len": 14,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 40,
+        "speaker": "jellyfish1010_0040",
+        "gen_idx": 1,
+        "target_text": "Trên thực tế, các nghi ngờ đã bắt đầu xuất hiện.",
+        "pred_text": "trên thực tế các nghi ngờ đã bắt đầu xuất hiện.",
+        "target_tones_len": 11,
+        "pred_tones_len": 11,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 40,
+        "speaker": "jellyfish1010_0040",
+        "gen_idx": 2,
+        "target_text": "Những người ở lại có những tiêu chuẩn cần thiết để chính thức gia nhập đội và hoàn thành nhiệm vụ, dù cho hoàn cảnh tồi tệ đến mức nào.",
+        "pred_text": "những người ở lại có những tiêu chuẩn cần thiết để chính thức gia nhập đội và hoàn thành nhiệm vụ dù cho hoàn cảnh tồi tệ đến mức nào.",
+        "target_tones_len": 30,
+        "pred_tones_len": 30,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 180,
+        "speaker": "jellyfish1010_0043",
+        "gen_idx": 0,
+        "target_text": "Phải mất khá lâu chúng tôi mới thuyết phục nổi bản thân rằng đây thậm chí là việc đáng thử.",
+        "pred_text": "phải mất khá lâu chúng tôi mới thuyết phục nổi bản thân rằng đây thậm chí là việc đáng thử.",
+        "target_tones_len": 20,
+        "pred_tones_len": 20,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 180,
+        "speaker": "jellyfish1010_0043",
+        "gen_idx": 1,
+        "target_text": "Trong ba câu hỏi mà quan điểm của chuyên gia khác biệt đáng kể quan điểm của công chúng, các nhà nghiên cứu biến tấu câu hỏi theo nhiều cách thức đa dạng.",
+        "pred_text": "ba câu hỏi mà quan điểm của chuyên gia khác biệt đáng kể quan điểm của công chúng các nhà nghiên cứu biến tấu câu hỏi theo nhiều cách thức đa dạng.",
+        "target_tones_len": 33,
+        "pred_tones_len": 32,
+        "aligned": false
+      },
+      {
+        "sid": 180,
+        "speaker": "jellyfish1010_0043",
+        "gen_idx": 2,
+        "target_text": "Rất nhiều vấn đề đang hoành hành trên thế giới hiện nay, đặc biệt dễ thấy ở những nước giàu có ở Bắc Bán Cầu, trong khi chúng tôi đã dành cả đời mình nghiên cứu người nghèo ở các nước nghèo.",
+        "pred_text": "rất nhiều vấn đề đang hoành hành trên thế giới hiện nay đặc biệt dễ thấy ở những nước giàu có ở bắt bán cầu trong khi chúng tôi đã dành cả đời mình nghiên cứu người nghèo ở các nước nghèo.",
+        "target_tones_len": 42,
+        "pred_tones_len": 42,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 10,
+        "speaker": "jellyfish1010_0044",
+        "gen_idx": 0,
+        "target_text": "Nó học rất tệ, thậm chí còn không biết làm theo một số chỉ dẫn trong các bài kiểm tra.",
+        "pred_text": "nó học rất tệ thậm chí còn không biết làm theo một số chỉ dẫn trong các bài kiểm tra.",
+        "target_tones_len": 20,
+        "pred_tones_len": 20,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 10,
+        "speaker": "jellyfish1010_0044",
+        "gen_idx": 1,
+        "target_text": "Đạo đức tính cách mách bảo tôi rằng vẫn còn có một cái gì đó ngoài kia,",
+        "pred_text": "đạo đức tính cách mách bảo tôi rằng vẫn còn có một cái gì đó ngoài kia.",
+        "target_tones_len": 17,
+        "pred_tones_len": 17,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 10,
+        "speaker": "jellyfish1010_0044",
+        "gen_idx": 2,
+        "target_text": "Thoreau từng nói, trong một ngàn nhát búa bổ vào cành lá của tội ác, chỉ có một nhát bổ vào gốc rễ.",
+        "pred_text": "cô rô từng nói trong một ngày nhét búa bổ vào cành lá của tội ác chỉ có một nhát bổ vào gốc rễ khăn trái.",
+        "target_tones_len": 23,
+        "pred_tones_len": 26,
+        "aligned": false
+      },
+      {
+        "sid": 0,
+        "speaker": "jellyfish1010_0052",
+        "gen_idx": 0,
+        "target_text": "Wieseltier đã dẫn ra Rwanda làm ví dụ, nơi một triệu người Tutsi thiệt mạng trong cuộc diệt chủng vào năm 1994, một vũng lầy về quân sự của phương Tây.",
+        "pred_text": "pisa tia đã dẫn ra rwanda làm ví dụ nơi một triệu người tư si thiệt mạng trong cuộc diệt chủng vào năm một ngàn chín trăm chín mươi bốn một vướng lầy về quân sự của phương tây.",
+        "target_tones_len": 30,
+        "pred_tones_len": 39,
+        "aligned": false
+      },
+      {
+        "sid": 0,
+        "speaker": "jellyfish1010_0052",
+        "gen_idx": 1,
+        "target_text": "Có thể họ vẫn còn tìm lại nó và thoát ra khỏi chủ nghĩa bán hòa bình hiện nay.",
+        "pred_text": "có thể họ vẫn còn tìm lại nó và thoát ra khỏi chủ nghĩa bán hoà bình hiện nay.",
+        "target_tones_len": 19,
+        "pred_tones_len": 19,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      },
+      {
+        "sid": 0,
+        "speaker": "jellyfish1010_0052",
+        "gen_idx": 2,
+        "target_text": "Đối với khá nhiều người theo chủ nghĩa lý tưởng, không thực tế, Iraq là một sự tiếp nối đam mê thời những năm 1990.",
+        "pred_text": "đối với khá nhiều người theo chủ nghĩa lý tưởng không thực tế i rắc là một sự tiếp nối đam mê thời những năm một ngàn chín trăm chín mươi.",
+        "target_tones_len": 24,
+        "pred_tones_len": 31,
+        "aligned": false
+      },
+      {
+        "sid": 100,
+        "speaker": "jellyfish1010_1042",
+        "gen_idx": 0,
+        "target_text": "Coke là một ví dụ điển hình, một cái tên ngắn gọn mà cho dù có cả tỷ đô la, bạn cũng không thể mua lại của Coca-Cola.",
+        "pred_text": "coke là một ví dụ điển hình một cái tên ngắn gọn mà cho dù có cả tỉ đô la bạn cũng không thể mua lại của cô ca cô la.",
+        "target_tones_len": 29,
+        "pred_tones_len": 31,
+        "aligned": false
+      },
+      {
+        "sid": 100,
+        "speaker": "jellyfish1010_1042",
+        "gen_idx": 1,
+        "target_text": "Bill Gates đã nhìn thấy điểm yếu này và tưởng tượng đến một giao diện thân thiện với người sử dụng hơn.",
+        "pred_text": "bill gates đã nhìn thấy điểm yếu này và tưởng tượng điếc một giao diện thân thiện với người sử dụng khẩn.",
+        "target_tones_len": 22,
+        "pred_tones_len": 22,
+        "aligned": true,
+        "syllable_accuracy": 0.955
+      },
+      {
+        "sid": 100,
+        "speaker": "jellyfish1010_1042",
+        "gen_idx": 2,
+        "target_text": "Còn được gọi là thập nhị nhân duyên, một trong những giáo lý quan trọng nhất của Đạo Phật.",
+        "pred_text": "còn người gọi là thập nhị nhân duyên một trong những giáo lý quan trọng nhất của đạo phật.",
+        "target_tones_len": 19,
+        "pred_tones_len": 19,
+        "aligned": true,
+        "syllable_accuracy": 0.947
+      },
+      {
+        "sid": 110,
+        "speaker": "jellyfish1010_1076",
+        "gen_idx": 0,
+        "target_text": "Trình độ của cô rất tốt, Nora.",
+        "pred_text": "tiền độ của cô rất tốt no hả ánh.",
+        "target_tones_len": 7,
+        "pred_tones_len": 9,
+        "aligned": false
+      },
+      {
+        "sid": 110,
+        "speaker": "jellyfish1010_1076",
+        "gen_idx": 1,
+        "target_text": "Cô nói với Neil, trong văn phòng bừa bộn không cửa sổ, bé như mắt mũi.",
+        "pred_text": "cô nói với nèo trong văn phòng bừa bộn không cửa sổ bé nhì mắt mũi.",
+        "target_tones_len": 16,
+        "pred_tones_len": 16,
+        "aligned": true,
+        "syllable_accuracy": 0.875
+      },
+      {
+        "sid": 110,
+        "speaker": "jellyfish1010_1076",
+        "gen_idx": 2,
+        "target_text": "Cô uống nốt chỗ rượu, uống cho bằng hết.",
+        "pred_text": "cô uống nốt chỗ rượu uống cho bằng hết.",
+        "target_tones_len": 9,
+        "pred_tones_len": 9,
+        "aligned": true,
+        "syllable_accuracy": 1.0
+      }
+    ]
+  }
+}

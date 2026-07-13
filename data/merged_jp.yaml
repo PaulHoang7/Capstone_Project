@@ -1,0 +1,8 @@
+train:
+  - /mnt/nfs-data/tin_dataset/comic/manga109/yolo/images/train
+  - /home/bes/Desktop/Tin/Capstone_project/data/jp_merge/images
+val: /mnt/nfs-data/tin_dataset/comic/manga109/yolo/images/val
+names:
+  0: bubble
+  1: character
+  2: panel

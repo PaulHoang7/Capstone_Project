@@ -1,0 +1,577 @@
+{
+  "checkpoint_dir": "/mnt/nfs-data/tin_dataset/checkpoints/xtts_vieneu_ft",
+  "n_samples": 60,
+  "n_speakers": 20,
+  "overall": {
+    "cos_gen_ref_mean": 0.7121,
+    "cos_gen_ref_median": 0.7407,
+    "cos_gen_ref_std": 0.0751,
+    "cos_gen_ref_min": 0.539,
+    "cos_gen_ref_max": 0.8225,
+    "upper_bound_tgt_ref_mean": 0.7536
+  },
+  "per_speaker_mean": {
+    "170": 0.7715,
+    "70": 0.7661,
+    "50": 0.7894,
+    "130": 0.7645,
+    "90": 0.6894,
+    "190": 0.7007,
+    "20": 0.7297,
+    "30": 0.7833,
+    "140": 0.7554,
+    "160": 0.7138,
+    "120": 0.7586,
+    "60": 0.7372,
+    "150": 0.5474,
+    "80": 0.599,
+    "40": 0.6023,
+    "180": 0.7205,
+    "10": 0.7728,
+    "0": 0.7818,
+    "100": 0.6281,
+    "110": 0.6313
+  },
+  "samples": [
+    {
+      "sid": 170,
+      "speaker": "capybara1812_0007",
+      "target_text": "Nhưng bạn không cần phải là thần đồng thì mới có thể đạt được những điều vĩ đại.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid170_gen0.wav",
+      "duration_s": 4.64,
+      "cos_gen_ref": 0.753,
+      "cos_tgt_ref": 0.7546
+    },
+    {
+      "sid": 170,
+      "speaker": "capybara1812_0007",
+      "target_text": "Chiêu mộ một loạt thần đồng rồi đào tạo chuyên sâu cho các em ngay từ khi còn nh",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid170_gen1.wav",
+      "duration_s": 4.82,
+      "cos_gen_ref": 0.7839,
+      "cos_tgt_ref": 0.7994
+    },
+    {
+      "sid": 170,
+      "speaker": "capybara1812_0007",
+      "target_text": "Cha mẹ và giáo viên của chúng ta không phải lúc nào cũng được trang bị kiến thức",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid170_gen2.wav",
+      "duration_s": 6.26,
+      "cos_gen_ref": 0.7775,
+      "cos_tgt_ref": 0.8224
+    },
+    {
+      "sid": 70,
+      "speaker": "capybara1812_0009",
+      "target_text": "Khi hai ông này đã buồn ngủ, ông ngồi dậy và ra đi.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid070_gen0.wav",
+      "duration_s": 5.43,
+      "cos_gen_ref": 0.7354,
+      "cos_tgt_ref": 0.7993
+    },
+    {
+      "sid": 70,
+      "speaker": "capybara1812_0009",
+      "target_text": "Nó có nghĩa là một trách nhiệm vô điều kiện của nhà tư tưởng.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid070_gen1.wav",
+      "duration_s": 4.03,
+      "cos_gen_ref": 0.765,
+      "cos_tgt_ref": 0.8085
+    },
+    {
+      "sid": 70,
+      "speaker": "capybara1812_0009",
+      "target_text": "Bất chấp sự thành công và ảnh hưởng của nó đối với nhà nước, sự độc lập của kẻ t",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid070_gen2.wav",
+      "duration_s": 7.33,
+      "cos_gen_ref": 0.7978,
+      "cos_tgt_ref": 0.8553
+    },
+    {
+      "sid": 50,
+      "speaker": "capybara1812_0010",
+      "target_text": "Cạnh tranh trong ngành công nghiệp và công nghệ cho thấy những bằng chứng tiếp t",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid050_gen0.wav",
+      "duration_s": 5.39,
+      "cos_gen_ref": 0.8203,
+      "cos_tgt_ref": 0.7547
+    },
+    {
+      "sid": 50,
+      "speaker": "capybara1812_0010",
+      "target_text": "Chúng tôi chỉ phát triển các ý tưởng và nguyên tắc của tư duy chiến lược.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid050_gen1.wav",
+      "duration_s": 4.54,
+      "cos_gen_ref": 0.7951,
+      "cos_tgt_ref": 0.5948
+    },
+    {
+      "sid": 50,
+      "speaker": "capybara1812_0010",
+      "target_text": "Cũng giống như thi đua trong thể thao, khi thắng lợi của đội này sẽ là thất bại ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid050_gen2.wav",
+      "duration_s": 5.53,
+      "cos_gen_ref": 0.7528,
+      "cos_tgt_ref": 0.6994
+    },
+    {
+      "sid": 130,
+      "speaker": "capybara1812_0011",
+      "target_text": "Tấm thẻ trong túi được trương ra cho tất cả các cao tăng và quan chức cùng xác đ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid130_gen0.wav",
+      "duration_s": 7.94,
+      "cos_gen_ref": 0.8057,
+      "cos_tgt_ref": 0.8516
+    },
+    {
+      "sid": 130,
+      "speaker": "capybara1812_0011",
+      "target_text": "Sau đó làn sóng này đi về phía đông thông qua con đường tơ lụa vào Trung Hoa.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid130_gen1.wav",
+      "duration_s": 5.85,
+      "cos_gen_ref": 0.7354,
+      "cos_tgt_ref": 0.8129
+    },
+    {
+      "sid": 130,
+      "speaker": "capybara1812_0011",
+      "target_text": "Có lần cậu bé thấy nhiều người trong tu viện kinh ngạc về trí thông minh của mìn",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid130_gen2.wav",
+      "duration_s": 7.38,
+      "cos_gen_ref": 0.7525,
+      "cos_tgt_ref": 0.8102
+    },
+    {
+      "sid": 90,
+      "speaker": "capybara1812_0021",
+      "target_text": "Trong ngành tài chính, các ngân hàng đang mất quyền lực và ảnh hưởng của mình và",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid090_gen0.wav",
+      "duration_s": 7.05,
+      "cos_gen_ref": 0.685,
+      "cos_tgt_ref": 0.7958
+    },
+    {
+      "sid": 90,
+      "speaker": "capybara1812_0021",
+      "target_text": "không còn là phạm vi riêng của một vài quỹ lớn cùng các tổ chức công và quốc tế.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid090_gen1.wav",
+      "duration_s": 4.78,
+      "cos_gen_ref": 0.6273,
+      "cos_tgt_ref": 0.6388
+    },
+    {
+      "sid": 90,
+      "speaker": "capybara1812_0021",
+      "target_text": "Bản thân quyền lực đang bị tấn công một cách chưa từng có tiền lệ.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid090_gen2.wav",
+      "duration_s": 4.36,
+      "cos_gen_ref": 0.7558,
+      "cos_tgt_ref": 0.8276
+    },
+    {
+      "sid": 190,
+      "speaker": "capybara1812_0052",
+      "target_text": "Nguồn cội triết học của liệu pháp nhận thức có thể truy ngược về thời các triết ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid190_gen0.wav",
+      "duration_s": 6.83,
+      "cos_gen_ref": 0.6972,
+      "cos_tgt_ref": 0.7754
+    },
+    {
+      "sid": 190,
+      "speaker": "capybara1812_0052",
+      "target_text": "Người ta cho rằng, chỉ riêng chủ nghĩa Khắc kỷ thời sơ khai đã được viết thành h",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid190_gen1.wav",
+      "duration_s": 11.09,
+      "cos_gen_ref": 0.7049,
+      "cos_tgt_ref": 0.8421
+    },
+    {
+      "sid": 190,
+      "speaker": "capybara1812_0052",
+      "target_text": "Như chúng ta sẽ thấy, đây là mối quan tâm chính yếu của các triết gia Khắc kỷ và",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid190_gen2.wav",
+      "duration_s": 11.79,
+      "cos_gen_ref": 0.7,
+      "cos_tgt_ref": 0.7995
+    },
+    {
+      "sid": 20,
+      "speaker": "capybara1812_0073",
+      "target_text": "Chúng ta cũng học được cách thoát ra khỏi lợi ích nhóm giữa các phòng ban và cấp",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid020_gen0.wav",
+      "duration_s": 6.68,
+      "cos_gen_ref": 0.7406,
+      "cos_tgt_ref": 0.793
+    },
+    {
+      "sid": 20,
+      "speaker": "capybara1812_0073",
+      "target_text": "Tính nhân văn trong quy trình này theo cách gọi của chúng ta giúp truyền cảm hứn",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid020_gen1.wav",
+      "duration_s": 9.89,
+      "cos_gen_ref": 0.7411,
+      "cos_tgt_ref": 0.7942
+    },
+    {
+      "sid": 20,
+      "speaker": "capybara1812_0073",
+      "target_text": "Qua đó, ranh giới chính là cạnh rìa mà tại đó chiến lược nằm trong không gian th",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid020_gen2.wav",
+      "duration_s": 7.52,
+      "cos_gen_ref": 0.7073,
+      "cos_tgt_ref": 0.7652
+    },
+    {
+      "sid": 30,
+      "speaker": "capybara1812_1023",
+      "target_text": "Mà khi hắn kêu làng thì không ai cần động đậy.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid030_gen0.wav",
+      "duration_s": 4.87,
+      "cos_gen_ref": 0.7746,
+      "cos_tgt_ref": 0.7502
+    },
+    {
+      "sid": 30,
+      "speaker": "capybara1812_1023",
+      "target_text": "Và khi bác phó cối này chết, thì hắn bơ vơ.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid030_gen1.wav",
+      "duration_s": 6.68,
+      "cos_gen_ref": 0.8225,
+      "cos_tgt_ref": 0.8263
+    },
+    {
+      "sid": 30,
+      "speaker": "capybara1812_1023",
+      "target_text": "Chúng đùa nhạt như nước ốc, chỉ được cái thô tục.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid030_gen2.wav",
+      "duration_s": 5.43,
+      "cos_gen_ref": 0.7528,
+      "cos_tgt_ref": 0.7727
+    },
+    {
+      "sid": 140,
+      "speaker": "capybara1812_1029",
+      "target_text": "Thế rồi đột nhiên bạn tiến tới gần bờ vực.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid140_gen0.wav",
+      "duration_s": 4.27,
+      "cos_gen_ref": 0.7525,
+      "cos_tgt_ref": 0.7599
+    },
+    {
+      "sid": 140,
+      "speaker": "capybara1812_1029",
+      "target_text": "Nếu bạn có thể bắt đầu chạy một chút, điều đó sẽ giúp ích.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid140_gen1.wav",
+      "duration_s": 5.24,
+      "cos_gen_ref": 0.7608,
+      "cos_tgt_ref": 0.7391
+    },
+    {
+      "sid": 140,
+      "speaker": "capybara1812_1029",
+      "target_text": "Bụng liên tục phập phồng, còn ngực vẫn hoàn toàn không bị ảnh hưởng bởi việc lưu",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid140_gen2.wav",
+      "duration_s": 5.61,
+      "cos_gen_ref": 0.753,
+      "cos_tgt_ref": 0.7797
+    },
+    {
+      "sid": 160,
+      "speaker": "capybara1812_1037",
+      "target_text": "Lúc bước vào phòng, vừa thấy mặt nàng, Oki đã cảm thấy tình ấy vẫn còn.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid160_gen0.wav",
+      "duration_s": 5.43,
+      "cos_gen_ref": 0.7195,
+      "cos_tgt_ref": 0.8006
+    },
+    {
+      "sid": 160,
+      "speaker": "capybara1812_1037",
+      "target_text": "Nếu không có dịp như thế này, anh chắc đã không dám hỏi em.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid160_gen1.wav",
+      "duration_s": 4.45,
+      "cos_gen_ref": 0.6709,
+      "cos_tgt_ref": 0.6703
+    },
+    {
+      "sid": 160,
+      "speaker": "capybara1812_1037",
+      "target_text": "Hai chiếc vali vuông dẹt, bằng da màu trắng, điểm những vệt nâu nhạt là món đồ t",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid160_gen2.wav",
+      "duration_s": 7.47,
+      "cos_gen_ref": 0.7511,
+      "cos_tgt_ref": 0.8509
+    },
+    {
+      "sid": 120,
+      "speaker": "capybara1812_1055",
+      "target_text": "Chương 6 Ôi, hoàng tử bé ơi, tôi đã dần dà hiểu được cuộc đời bé bỏng buồn sầu c",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid120_gen0.wav",
+      "duration_s": 6.87,
+      "cos_gen_ref": 0.7994,
+      "cos_tgt_ref": 0.6496
+    },
+    {
+      "sid": 120,
+      "speaker": "capybara1812_1055",
+      "target_text": "Mỗi tuần nuốt một viên và bạn sẽ không cần phải uống nước nữa.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid120_gen1.wav",
+      "duration_s": 4.68,
+      "cos_gen_ref": 0.7643,
+      "cos_tgt_ref": 0.7407
+    },
+    {
+      "sid": 120,
+      "speaker": "capybara1812_1055",
+      "target_text": "Loài người ấy à, em nghĩ là có đấy.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid120_gen2.wav",
+      "duration_s": 4.09,
+      "cos_gen_ref": 0.712,
+      "cos_tgt_ref": 0.6602
+    },
+    {
+      "sid": 60,
+      "speaker": "capybara1812_1079",
+      "target_text": "Các chuẩn mực trong giao tiếp truyền thống ở Bắc vẫn tốt hơn ở Nam, đặc biệt là ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid060_gen0.wav",
+      "duration_s": 10.3,
+      "cos_gen_ref": 0.7212,
+      "cos_tgt_ref": 0.8075
+    },
+    {
+      "sid": 60,
+      "speaker": "capybara1812_1079",
+      "target_text": "Khi mà thể lực bạn kiệt quệ thì sẽ làm tinh thần bạn xuống cấp.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid060_gen1.wav",
+      "duration_s": 5.75,
+      "cos_gen_ref": 0.7495,
+      "cos_tgt_ref": 0.7156
+    },
+    {
+      "sid": 60,
+      "speaker": "capybara1812_1079",
+      "target_text": "Thế nhưng các đoàn khác cũng vậy, ai cũng tranh thủ, ai cũng hối hả.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid060_gen2.wav",
+      "duration_s": 5.98,
+      "cos_gen_ref": 0.7408,
+      "cos_tgt_ref": 0.7422
+    },
+    {
+      "sid": 150,
+      "speaker": "jellyfish1010_0002",
+      "target_text": "Triều đại nhà Tần nổi bật với những chính sách theo khuynh hướng Pháp gia về các",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid150_gen0.wav",
+      "duration_s": 8.12,
+      "cos_gen_ref": 0.539,
+      "cos_tgt_ref": 0.6001
+    },
+    {
+      "sid": 150,
+      "speaker": "jellyfish1010_0002",
+      "target_text": "Những con tàu vận chuyển muối thường bị chuột xâm chiếm ồ ạt.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid150_gen1.wav",
+      "duration_s": 4.17,
+      "cos_gen_ref": 0.5439,
+      "cos_tgt_ref": 0.7163
+    },
+    {
+      "sid": 150,
+      "speaker": "jellyfish1010_0002",
+      "target_text": "Đôi khi binh lính và dân lao động được trả lương bằng muối, thậm chí muối còn đư",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid150_gen2.wav",
+      "duration_s": 7.52,
+      "cos_gen_ref": 0.5592,
+      "cos_tgt_ref": 0.7645
+    },
+    {
+      "sid": 80,
+      "speaker": "jellyfish1010_0039",
+      "target_text": "Và tôi chưa từng bước chân vào giảng đường đại học.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid080_gen0.wav",
+      "duration_s": 6.63,
+      "cos_gen_ref": 0.6023,
+      "cos_tgt_ref": 0.7202
+    },
+    {
+      "sid": 80,
+      "speaker": "jellyfish1010_0039",
+      "target_text": "Và thú thực, tôi thấy thật hả hê khi nhìn thấy vẻ mặt của cô Dorothy vào lúc ấy.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid080_gen1.wav",
+      "duration_s": 6.36,
+      "cos_gen_ref": 0.5738,
+      "cos_tgt_ref": 0.6986
+    },
+    {
+      "sid": 80,
+      "speaker": "jellyfish1010_0039",
+      "target_text": "Nếu bạn đang quản lý một công ty đầu tư thì hãy tự hỏi Warren Buffett sẽ làm gì?",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid080_gen2.wav",
+      "duration_s": 5.66,
+      "cos_gen_ref": 0.6209,
+      "cos_tgt_ref": 0.7064
+    },
+    {
+      "sid": 40,
+      "speaker": "jellyfish1010_0040",
+      "target_text": "Chiến thắng này đòi hỏi một cuộc tấn công lớn dưới nhiều hình thức.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid040_gen0.wav",
+      "duration_s": 4.74,
+      "cos_gen_ref": 0.6504,
+      "cos_tgt_ref": 0.7267
+    },
+    {
+      "sid": 40,
+      "speaker": "jellyfish1010_0040",
+      "target_text": "Trên thực tế, các nghi ngờ đã bắt đầu xuất hiện.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid040_gen1.wav",
+      "duration_s": 4.17,
+      "cos_gen_ref": 0.5438,
+      "cos_tgt_ref": 0.5908
+    },
+    {
+      "sid": 40,
+      "speaker": "jellyfish1010_0040",
+      "target_text": "Những người ở lại có những tiêu chuẩn cần thiết để chính thức gia nhập đội và ho",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid040_gen2.wav",
+      "duration_s": 7.84,
+      "cos_gen_ref": 0.6128,
+      "cos_tgt_ref": 0.7565
+    },
+    {
+      "sid": 180,
+      "speaker": "jellyfish1010_0043",
+      "target_text": "Phải mất khá lâu chúng tôi mới thuyết phục nổi bản thân rằng đây thậm chí là việ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid180_gen0.wav",
+      "duration_s": 5.57,
+      "cos_gen_ref": 0.6989,
+      "cos_tgt_ref": 0.7936
+    },
+    {
+      "sid": 180,
+      "speaker": "jellyfish1010_0043",
+      "target_text": "Trong ba câu hỏi mà quan điểm của chuyên gia khác biệt đáng kể quan điểm của côn",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid180_gen1.wav",
+      "duration_s": 8.54,
+      "cos_gen_ref": 0.75,
+      "cos_tgt_ref": 0.8202
+    },
+    {
+      "sid": 180,
+      "speaker": "jellyfish1010_0043",
+      "target_text": "Rất nhiều vấn đề đang hoành hành trên thế giới hiện nay, đặc biệt dễ thấy ở nhữn",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid180_gen2.wav",
+      "duration_s": 10.68,
+      "cos_gen_ref": 0.7126,
+      "cos_tgt_ref": 0.8013
+    },
+    {
+      "sid": 10,
+      "speaker": "jellyfish1010_0044",
+      "target_text": "Nó học rất tệ, thậm chí còn không biết làm theo một số chỉ dẫn trong các bài kiể",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid010_gen0.wav",
+      "duration_s": 5.19,
+      "cos_gen_ref": 0.7501,
+      "cos_tgt_ref": 0.7322
+    },
+    {
+      "sid": 10,
+      "speaker": "jellyfish1010_0044",
+      "target_text": "Đạo đức tính cách mách bảo tôi rằng vẫn còn có một cái gì đó ngoài kia,",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid010_gen1.wav",
+      "duration_s": 4.17,
+      "cos_gen_ref": 0.7928,
+      "cos_tgt_ref": 0.777
+    },
+    {
+      "sid": 10,
+      "speaker": "jellyfish1010_0044",
+      "target_text": "Thoreau từng nói, trong một ngàn nhát búa bổ vào cành lá của tội ác, chỉ có một ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid010_gen2.wav",
+      "duration_s": 6.91,
+      "cos_gen_ref": 0.7755,
+      "cos_tgt_ref": 0.8497
+    },
+    {
+      "sid": 0,
+      "speaker": "jellyfish1010_0052",
+      "target_text": "Wieseltier đã dẫn ra Rwanda làm ví dụ, nơi một triệu người Tutsi thiệt mạng tron",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid000_gen0.wav",
+      "duration_s": 9.93,
+      "cos_gen_ref": 0.7964,
+      "cos_tgt_ref": 0.8435
+    },
+    {
+      "sid": 0,
+      "speaker": "jellyfish1010_0052",
+      "target_text": "Có thể họ vẫn còn tìm lại nó và thoát ra khỏi chủ nghĩa bán hòa bình hiện nay.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid000_gen1.wav",
+      "duration_s": 4.64,
+      "cos_gen_ref": 0.7648,
+      "cos_tgt_ref": 0.8346
+    },
+    {
+      "sid": 0,
+      "speaker": "jellyfish1010_0052",
+      "target_text": "Đối với khá nhiều người theo chủ nghĩa lý tưởng, không thực tế, Iraq là một sự t",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid000_gen2.wav",
+      "duration_s": 7.33,
+      "cos_gen_ref": 0.7843,
+      "cos_tgt_ref": 0.8848
+    },
+    {
+      "sid": 100,
+      "speaker": "jellyfish1010_1042",
+      "target_text": "Coke là một ví dụ điển hình, một cái tên ngắn gọn mà cho dù có cả tỷ đô la, bạn ",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid100_gen0.wav",
+      "duration_s": 9.38,
+      "cos_gen_ref": 0.6171,
+      "cos_tgt_ref": 0.6765
+    },
+    {
+      "sid": 100,
+      "speaker": "jellyfish1010_1042",
+      "target_text": "Bill Gates đã nhìn thấy điểm yếu này và tưởng tượng đến một giao diện thân thiện",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid100_gen1.wav",
+      "duration_s": 7.24,
+      "cos_gen_ref": 0.6548,
+      "cos_tgt_ref": 0.6549
+    },
+    {
+      "sid": 100,
+      "speaker": "jellyfish1010_1042",
+      "target_text": "Còn được gọi là thập nhị nhân duyên, một trong những giáo lý quan trọng nhất của",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid100_gen2.wav",
+      "duration_s": 4.92,
+      "cos_gen_ref": 0.6125,
+      "cos_tgt_ref": 0.6589
+    },
+    {
+      "sid": 110,
+      "speaker": "jellyfish1010_1076",
+      "target_text": "Trình độ của cô rất tốt, Nora.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid110_gen0.wav",
+      "duration_s": 4.96,
+      "cos_gen_ref": 0.645,
+      "cos_tgt_ref": 0.6632
+    },
+    {
+      "sid": 110,
+      "speaker": "jellyfish1010_1076",
+      "target_text": "Cô nói với Neil, trong văn phòng bừa bộn không cửa sổ, bé như mắt mũi.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid110_gen1.wav",
+      "duration_s": 5.53,
+      "cos_gen_ref": 0.6228,
+      "cos_tgt_ref": 0.7067
+    },
+    {
+      "sid": 110,
+      "speaker": "jellyfish1010_1076",
+      "target_text": "Cô uống nốt chỗ rượu, uống cho bằng hết.",
+      "gen_path": "/home/bes/Desktop/Tin/Capstone_project/voice_cloning/xtts_v2/eval_ft/generated/sid110_gen2.wav",
+      "duration_s": 4.5,
+      "cos_gen_ref": 0.626,
+      "cos_tgt_ref": 0.5756
+    }
+  ]
+}
