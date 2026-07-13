@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Large audio assets
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+
+# Archives / compressed data
+*.zip
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.rar
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.onnx
+*.ckpt
+*.h5
+*.weights
+
+# Generated / large outputs
+logs/
+checkpoints/
+models/
+demo_output/
+samples*/
+outputs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
